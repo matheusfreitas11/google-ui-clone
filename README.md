@@ -1,8 +1,8 @@
 <h1 align="center">
-UI Clone - Google (Homepage)
+UI Clone - Google (Homepage) Web and mobile version.
 </h1>
 
-<p align="center"><a href="https://pinterest.com">Google Homepage</a> UI clone for study purposes.</p>
+<p align="center"><a href="https://google.com">Google Homepage</a> UI clone for study purposes.</p>
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-google-home/graphs/contributors">
